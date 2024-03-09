@@ -65,7 +65,7 @@ class ApplicationScreen extends StatelessWidget {
                       borderRadius: BorderRadius.circular(10),
                   )
               ),
-              icon: Image.asset('assets/images/google_4.png',
+              icon: Image.asset('assets/images/google_5.png',
                 width:30,
                 height: 30,),
 
@@ -77,7 +77,7 @@ class ApplicationScreen extends StatelessWidget {
             textColor: Colors.blue,
           ),
           ApplicationList(
-            image: Image.asset('assets/images/spotify_2.png',
+            image: Image.asset('assets/images/spotify_5.png',
               width:30,
               height: 30,
             ),
